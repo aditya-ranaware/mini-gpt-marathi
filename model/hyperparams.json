@@ -1,0 +1,13 @@
+{
+    "vocab_size": 222,
+    "n_embd": 256,
+    "n_head": 8,
+    "n_layer": 6,
+    "block_size": 128,
+    "dropout": 0.2,
+    "batch_size": 32,
+    "max_iters": 5000,
+    "learning_rate": 0.0003,
+    "final_train_loss": 1.6030044555664062,
+    "final_val_loss": 1.647775411605835
+}
